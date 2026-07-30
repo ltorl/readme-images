@@ -13,7 +13,14 @@
         .layered-shadow-text {
             color: #fff;
             font-weight: bold;
-            font-family: "Comic Sans MS", cursive, sans-serif;
+            font-family:
+                "Comic Sans MS",
+                "Chalkboard SE",
+                "Marker Felt",
+                "Bradley Hand",
+                "Comic Neue",
+                cursive,
+                sans-serif;
             font-size: 87px;
             text-align: center;
             animation: smoothPurpleStack 1s cubic-bezier(0, 0, 1, 1) infinite alternate;
