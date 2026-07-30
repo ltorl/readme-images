@@ -39,6 +39,10 @@
                     -10px 10px 0px #0b0070;
             }
         }
+        @font-face {
+            font-family: "Comic Sans MS";
+            src: url("ComicSansMS.woff2") format("woff2");
+        }
       </style>
       <div class="container">
         <h1 class="layered-shadow-text">Altior Browser</h1>
